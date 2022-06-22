@@ -14,13 +14,15 @@
 	margin: 0;
 	border: 1px solid black;
 }
-
+.wrap {
+	display: block;
+	width: 794px;
+}
 .grid {
 	display: grid;
 	grid-template-columns: 88px 88px 88px 88px 88px 88px 88px 88px 88px;
 	background-image: url("kayaboard.svg");
 	/*background-color: #e4ceaa;
-	/*
 	background-color: #d4b176;
 	background-size: cover;*/
 	
