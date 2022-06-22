@@ -4,6 +4,7 @@
 
 </head>
 <body>
+<div class="wrap">
 <div class="grid">
 
 <img src="GoteLance.svg" class="piece">
@@ -96,6 +97,7 @@
 <img src="SentePromotedKnight.svg" class="piece">
 <img src="SentePromotedLance.svg" class="piece">
 
+</div>
 </div>
 </body>
 </html>
