@@ -16,7 +16,12 @@
 }
 .wrap {
 	display: block;
-	width: 794px;
+	width: 792px;
+}
+
+.wrap2 {
+	display: block;
+	width: 792px;
 }
 .grid {
 	display: grid;
