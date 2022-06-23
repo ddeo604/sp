@@ -51,8 +51,9 @@
 <div class="epiece"></div>
 <div class="epiece"></div>
 <div class="epiece"></div>
-<div class="epiece"></div>
-<div class="epiece"></div>
+<img src="GotePawn.svg" class="piece">
+<img src="SentePawn.svg" class="piece">
+
 <div class="epiece"></div>
 <div class="epiece"></div>
 <div class="epiece"></div>
@@ -140,7 +141,7 @@
 <img src="GotePawn.svg" class="piece">
 <div class="epiece"></div>
 <img src="GotePawn.svg" class="piece">
-<img src="GoteSilver.svg" class="piece">
+<div class="epiece"></div>
 <img src="GotePawn.svg" class="piece">
 <div class="epiece"></div>
 <img src="GotePawn.svg" class="piece">
