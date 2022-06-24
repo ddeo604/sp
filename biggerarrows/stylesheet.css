@@ -1,0 +1,41 @@
+.piece {
+	width: 88px;
+	height: 100px;
+	display: block;
+	padding: 0;
+	margin: 0;
+	border: 1px solid black
+}
+.epiece {
+	width: 88px;
+	height: 100px;
+	display: block;
+	padding: 0;
+	margin: 0;
+	border: 1px solid black;
+}
+.wrap {
+	display: block;
+	width: 800px;
+}
+.wrap2 {
+	display: block;
+	width: 792px;
+}
+.grid {
+	display: grid;
+	grid-template-columns: 88px 88px 88px 88px 88px 88px 88px 88px 88px;
+	background-image: url("kayaboard2.svg");
+	/*background-color: #e4ceaa;
+	/*
+	background-color: #d4b176;
+	background-size: cover;*/
+	
+}
+
+
+.grid2 {
+	display: grid;
+	grid-template-columns: 88px 88px 88px 88px 88px 88px 88px 88px 88px;
+	background-image: url("kayaboard.svg");
+}
